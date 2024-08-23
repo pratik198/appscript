@@ -1,0 +1,52 @@
+.upper_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 350px;
+  height: 48px;
+  width: 100%;
+}
+.inner_upper_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 40em;
+  margin-top: 23px;
+}
+.logo_img {
+  height: 26px;
+  width: 26px;
+}
+.logo_img img {
+  height: 100%;
+  width: 100%;
+}
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 21px;
+  width: 198px;
+}
+.icons img {
+  height: 20px;
+}
+.lang {
+  height: 100%;
+}
+.lang img {
+  height: 12px;
+}
+.lower_header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 72px;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
